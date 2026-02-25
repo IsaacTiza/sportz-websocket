@@ -13,7 +13,7 @@ const connectDB = async () => {
     const mongoDBName = process.env.MONGO_DB_NAME;
 
     if (!mongoURI) {
-      throw new Error('MONGO_URI is not defined in config.env');
+      throw new Error('Please define your Mongoose Connection String in the .env file');
     }
 
     const conn = await mongoose.connect(mongoURI, {

@@ -1,0 +1,66 @@
+[
+  {
+    "homeTeam": "River City FC",
+    "awayTeam": "Lakeside United",
+    "sport": "football",
+    "startTime": "2026-02-21T16:00:00.000Z",
+    "endTime": null,
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "homeTeam": "Trial One United",
+    "awayTeam": "Trial Two United",
+    "sport": "football",
+    "startTime": "2026-02-19T18:00:00.000Z",
+    "endTime": "2026-02-19T20:00:00.000Z",
+    "homeScore": 5,
+    "awayScore":7
+  },
+  {
+    "homeTeam": "City Hoops",
+    "awayTeam": "Downtown Dunkers",
+    "sport": "basketball",
+    "startTime": "2026-02-19T18:00:00.000Z",
+    "endTime": "2026-02-19T20:00:00.000Z",
+    "homeScore": 98,
+    "awayScore": 102
+  },
+  {
+    "homeTeam": "Lakeside Lakers",
+    "awayTeam": "Harbor Hawks",
+    "sport": "basketball",
+    "status": "live",
+    "startTime": "2026-02-20T19:00:00.000Z",
+    "endTime": null,
+    "homeScore": 54,
+    "awayScore": 57
+  },
+  {
+    "homeTeam": "Greenfield CC",
+    "awayTeam": "Old Oakers",
+    "sport": "cricket",
+    "startTime": "2026-03-01T09:00:00.000Z",
+    "endTime": null,
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "homeTeam": "Net Masters",
+    "awayTeam": "Baseline Aces",
+    "sport": "tennis",
+    "startTime": "2026-02-18T10:00:00.000Z",
+    "endTime": "2026-02-18T12:30:00.000Z",
+    "homeScore": 3,
+    "awayScore": 2
+  },
+  {
+    "homeTeam": "Icebreakers",
+    "awayTeam": "Polar Pucks",
+    "sport": "hockey",
+    "startTime": "2026-02-20T20:15:00.000Z",
+    "endTime": null,
+    "homeScore": 2,
+    "awayScore": 2
+  }
+]

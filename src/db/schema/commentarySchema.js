@@ -23,19 +23,18 @@ const commentarySchema = new mongoose.Schema(
       required: [true, 'Period is required'],
       trim: true,
       lowercase: true,
-      enum: ['first', 'second', 'third', 'fourth', 'overtime', 'shootout'],
+      
     },
     eventType: {
       type: String,
       required: [true, 'Event type is required'],
       trim: true,
       lowercase: true,
-      enum: ['goal', 'assist', 'shot', 'foul', 'card', 'substitution', 'injury', 'timeout', 'other'],
+      
       index: true,
     },
     actor: {
       type: String,
-      required: [true, 'Actor name is required'],
       trim: true,
     },
     team: {
